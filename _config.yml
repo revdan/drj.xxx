@@ -5,8 +5,8 @@ paginate: 10
 exclude: ['public', 'bin', 'vendor', 'Gemfile', 'Gemfile.lock', 'Procfile', 'Rakefile', 'unicorn.rb', 'config.ru', 'README.md']
 destination: 'public'
 
-production_url: https://github.com/himynameisjonas/jekyll-heroku-unicorn
-title : jekyll + heroku + unicorn
+production_url: http://drj.xxx
+title : DRJ.XXX
 author:
-  name: Jonas Forsberg
-  email: hello@jonasforsberg.se
+  name: @midgetjons
+  email: leavemealone@drj.xxx
