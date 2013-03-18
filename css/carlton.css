@@ -31,7 +31,11 @@ h1 {
 }
 
 .wf-loading h1 {
-  font-family: "Helvetica Neue", "Arial", sans-serif;
+  visibility: hidden;
+}
+
+.wf-active h1 {
+  visibility: visible;
 }
 
 p {
@@ -39,7 +43,7 @@ p {
 }
 
 a {
-  color: #00a;
+  color: #232621;
 }
 
 a:hover {
