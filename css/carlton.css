@@ -79,7 +79,7 @@ ul.posts {
 /*
 /*****************************************************************************/
 
-main {
+.site {
   font-size: 110%;
   text-align: justify;
   width: 42em;
@@ -93,30 +93,30 @@ main {
   margin-bottom: 2em;
 }
 
-  main .title a {
+  .site .title a {
     color: #a00;
     text-decoration: none;
   }
 
-  main .title a:hover {
+  .site .title a:hover {
     color: black;
   }
 
-  main .title a.extra {
+  .site .title a.extra {
     color: #aaa;
     text-decoration: none;
     margin-left: 1em;
   }
 
-  main .title a.extra:hover {
+  .site .title a.extra:hover {
     color: black;
   }
 
-  main .meta {
+  .site .meta {
     color: #aaa;
   }
 
-  main .footer {
+  .site .footer {
     font-size: 80%;
     color: #666;
     border-top: 4px solid #eee;
@@ -124,22 +124,22 @@ main {
     overflow: hidden;
   }
 
-    main .footer .contact {
+    .site .footer .contact {
       float: left;
       margin-right: 3em;
     }
 
-      main .footer .contact a {
+      .site .footer .contact a {
         color: #8085C1;
       }
 
-    main .footer .rss {
+    .site .footer .rss {
       margin-top: 1.1em;
       margin-right: -.2em;
       float: right;
     }
 
-      main .footer .rss img {
+      .site .footer .rss img {
         border: 0;
       }
 
