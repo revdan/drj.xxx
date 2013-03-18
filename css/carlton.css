@@ -30,6 +30,10 @@ h1 {
   font-family: "alternate-gothic-no-2-d-1","alternate-gothic-no-2-d-2";
 }
 
+.wf-loading h1 {
+  font-family: "Helvetica Neue", "Arial", sans-serif;
+}
+
 p {
   margin: 1em 0;
 }
