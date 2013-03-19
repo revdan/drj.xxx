@@ -1,0 +1,17 @@
+permalink: /:year/:month/:day/:title
+auto: false
+pygments: true
+paginate: 10
+exclude: ['public', 'bin', 'vendor', 'Gemfile', 'Gemfile.lock', 'Procfile', 'Rakefile', 'unicorn.rb', 'config.ru', 'README.md']
+destination: 'public'
+
+production_url: http://drj.xxx
+title : 'DRJ.XXX'
+author:
+<<<<<<< HEAD
+  name: @midgetjones
+  email: xxx@drj.xxx
+=======
+  name: @midgetjons
+  email: leavemealone@drj.xxx
+>>>>>>> Readme should be markdown
