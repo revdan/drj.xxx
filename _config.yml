@@ -6,7 +6,7 @@ exclude: ['public', 'bin', 'vendor', 'Gemfile', 'Gemfile.lock', 'Procfile', 'Rak
 destination: 'public'
 
 production_url: http://drj.xxx
-title : DRJ.XXX
+title : 'DRJ.XXX'
 author:
   name: @midgetjones
   email: xxx@drj.xxx
