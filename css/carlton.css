@@ -31,13 +31,6 @@ h1 {
   font-family: "alternate-gothic-no-2-d-1","alternate-gothic-no-2-d-2";
 }
 
-
-h2 {
-  margin: 1em 0; 
-	font-size: 140%;
-  font-family: "alternate-gothic-no-2-d-1","alternate-gothic-no-2-d-2";
-}
-
 .wf-loading h1 {
   visibility: hidden;
 }
