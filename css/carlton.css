@@ -23,20 +23,25 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
 	text-align: left;
-mv: rename carlton.css to banks.css: No such file or directory
 }
 
 h1 {
   margin: 1em 0; 
-	font-size: 200%;
+	font-size: 260%;
   font-family: "alternate-gothic-no-2-d-1","alternate-gothic-no-2-d-2";
 }
 
-.wf-loading h1 {
+h2 {
+  margin: 1em 0; 
+	font-size: 180%;
+  font-family: "alternate-gothic-no-2-d-1","alternate-gothic-no-2-d-2";
+}
+
+.wf-loading {
   visibility: hidden;
 }
 
-.wf-active h1 {
+.wf-active {
   visibility: visible;
 }
 
