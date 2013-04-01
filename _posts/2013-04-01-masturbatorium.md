@@ -9,7 +9,7 @@ title: ...he said, before retreating back into his masturbatorium
 Instantly liven up bad journalism by appending any instances of "he
 said", with "before retreating back into his masturbatorium".
 
-<a class="bookmarklet"
+<a name="Masturbatorium" class="bookmarklet"
 href="javascript:void(function(){document.body.innerHTML=document.body.innerHTML.replace(/\bhe\b\s\bsaid\b/g,&quot;he 
 said, before retreating back into his 
 masturbatorium&quot;);document.body.innerHTML=document.body.innerHTML.replace(/\bHe\b\s\bsaid\b/g,&quot;He 
