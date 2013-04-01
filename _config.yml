@@ -4,9 +4,10 @@ pygments: true
 paginate: 10
 exclude: ['public', 'bin', 'vendor', 'Gemfile', 'Gemfile.lock', 'Procfile', 'Rakefile', 'unicorn.rb', 'config.ru', 'README.md']
 destination: 'public'
+markdown: redcarpet
 
-production_url: http://drj.xxx
+production_url: 'http://drj.xxx'
 title : 'DRJ.XXX'
 author:
-  name: @midgetjones
-  email: xxx@drj.xxx
+  name: '@midgetjones'
+  email: 'xxx@drj.xxx'
