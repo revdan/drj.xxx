@@ -28,14 +28,14 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   margin: 1em 0; 
 	font-size: 260%;
-  font-family: "alternate-gothic-no-2-d-1","alternate-gothic-no-2-d-2";
+  font-family: "freight-sans-pro-1", "freight-sans-pro-2";
 }
 
 h2 {
   margin: 1em 0; 
 	font-size: 180%;
   font-weight: medium;
-  font-family: "alternate-gothic-no-2-d-1","alternate-gothic-no-2-d-2";
+  font-family: "freight-sans-pro-1", "freight-sans-pro-2";
 }
 
 .wf-loading {
