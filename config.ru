@@ -10,6 +10,4 @@ use Rack::DeflaterWithExclusions, :exclude => proc { |env|
   [ ".jpg", ".png", ".ico" ].include? File.extname(env['PATH_INFO'])
 }
 
-expires 3600, :public, :must_revalidate
-
 run Rack::Jekyll.new(:destination => 'public')
